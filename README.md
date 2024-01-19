@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kotcharat Puttated
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=14C1FD&background=FFEFA800&center=true&random=false&width=435&lines=Hi+I'm+Kotcharat+Puttated;Welcome+to+My+Github)](https://git.io/typing-svg)
 ==========================================================================================================================================
 
 I'm a Computer Engineering Student
