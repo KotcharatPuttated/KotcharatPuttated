@@ -10,7 +10,7 @@ I'm a Computer Engineering Student
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [mosmoth04@gmail.com](mailto:mosmoth04@gmail.com)
 * 🧠  I'm learning React.js
-
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 <a href="https://www.github.com/KotcharatPuttated" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KotcharatPuttated?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
